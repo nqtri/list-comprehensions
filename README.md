@@ -1,7 +1,9 @@
 # US Gun Deaths
 # Courtesy of fivethirtyeight
 
-2nd Guided Project on Dataquest: Exploring Gun Deaths in the US
+2nd Guided Project on Dataquest: Exploring Gun Deaths in the US.
+
+<b>In this project, I will be working with error handling and list comprehensions as well as regular expressions and dates.</b>
 
 There are two files:
 
